@@ -1,2 +1,3 @@
-# my-test-adbhkasbd
-A test repository created with Python
+# My New Project
+
+This is a test repository created programmatically!
